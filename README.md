@@ -17,8 +17,9 @@
 
 
 
+![Screenshot (30)](https://github.com/Josephsurya10/figma-web/assets/74101710/c44e2f48-ea28-44e5-9a0e-2f392600dde2)
 
-![Screenshot (26)](https://github.com/Josephsurya10/figma-web/assets/74101710/2a7bd2bb-401d-4826-83d9-d15d49fa1ea9)
+
 
 
 
